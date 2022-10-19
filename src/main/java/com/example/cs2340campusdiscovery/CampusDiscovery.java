@@ -146,6 +146,7 @@ public class CampusDiscovery extends Application {
 
 
         stage.show();
+        //--
     }
 
     public static void main(String[] args) {
